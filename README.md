@@ -32,3 +32,26 @@ Task 5: Advanced Analysis
 - Matplotlib, Seaborn, Plotly
 - Scikit-learn
 - Jupyter Notebook
+# 🧠 Key Insights
+- Senior citizens, month-to-month contracts, and electronic check payments show higher churn rates.
+- Long-term contracts and automatic payment methods lead to better retention.
+- Internet service type and tenure play significant roles in customer segmentation.
+- Segmentation visualizations highlight distinct behavioral clusters, aiding targeted decision-making.
+# How to Run
+1. Clone this repository
+   ```bash
+   git clone https://github.com/smpdshukla/Customer_Segmentation_Analysis.git
+   cd Customer_Segmentation_Analysis
+2. Set up a virtual environment (optional but recommended)
+   ```bash
+   python -m venv venv
+   
+   venv\Scripts\activate        # Windows
+   source venv/bin/activate     # Mac/Linux
+3. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+4. Launch Jupyter Notebook
+   ```bash
+    jupyter notebook
+  
