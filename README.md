@@ -8,17 +8,21 @@ Task 1: Dataset Understanding
 - Loaded the Telco Customer Churn dataset.
 - Checked data types, missing values, and data distribution.
 - Summarized key features and target variable (Churn).
+
 Task 2: Dataset Cleaning
 - Handled missing and inconsistent values.
 - Encoded categorical variables.
 - Converted numerical columns to proper data types.
+  
 Task 3: Exploratory Data Analysis (EDA)
 - Visualized churn distribution and customer demographics.
 - Analyzed relationships between churn and service-related variables.
 - Derived insights using correlation and feature importance.
+  
 Task 4: Customer Segmentation Visualization
 - Performed clustering and dimensionality reduction.
 - Visualized customer groups to identify churn-prone segments.
+  
 Task 5: Advanced Analysis
 - Applied advanced analytical techniques for deeper insights.
 - Tested predictive patterns related to churn behavior.
