@@ -26,3 +26,9 @@ Task 4: Customer Segmentation Visualization
 Task 5: Advanced Analysis
 - Applied advanced analytical techniques for deeper insights.
 - Tested predictive patterns related to churn behavior.
+# 🧰 Tech Stack
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn, Plotly
+- Scikit-learn
+- Jupyter Notebook
